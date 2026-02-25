@@ -1,0 +1,6 @@
+rootProject.name = 'notification-engine'
+
+include 'engine-core'
+include 'engine-sse'
+include 'engine-email'
+include 'engine-slack'
