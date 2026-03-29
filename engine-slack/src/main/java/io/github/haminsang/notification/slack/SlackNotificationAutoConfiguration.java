@@ -1,4 +1,4 @@
-package io.github.haminsang.notification.slack.config;
+package io.github.haminsang.notification.slack;
 
 import io.github.haminsang.notification.slack.sender.SlackNotificationSender;
 import org.springframework.context.annotation.Bean;
