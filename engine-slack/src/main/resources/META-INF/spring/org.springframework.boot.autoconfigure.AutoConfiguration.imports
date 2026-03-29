@@ -1,1 +1,1 @@
-io.github.haminsang.notification.slack.config.SlackNotificationAutoConfiguration
+io.github.haminsang.notification.slack.SlackNotificationAutoConfiguration
